@@ -1,7 +1,7 @@
 package com.eteration.dp.structural.decorator;
-public class DottedhapeDecorator extends ShapeDecorator {
+public class DottedShapeDecorator extends ShapeDecorator {
 
-   public DottedhapeDecorator(Shape decoratedShape) {
+   public DottedShapeDecorator(Shape decoratedShape) {
       super(decoratedShape);		
    }
 

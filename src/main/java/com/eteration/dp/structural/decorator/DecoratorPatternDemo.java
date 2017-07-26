@@ -4,7 +4,7 @@ public class DecoratorPatternDemo {
 
    
 
-      Shape redDottedRectangle = new DottedhapeDecorator(new RedShapeDecorator(new Rectangle()));
+      Shape redDottedRectangle = new DottedShapeDecorator(new RedShapeDecorator(new Rectangle()));
 
 
       redDottedRectangle.draw();
