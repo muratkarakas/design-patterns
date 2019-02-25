@@ -10,7 +10,6 @@ public class ShoppingCart {
 		for (Visitable item : items) {
 			item.accept(visitor);
 		}
-		double postage = visitor.getTotalPostage();
-		return postage;
+		return   visitor.getTotalPostage();
 	}
 }

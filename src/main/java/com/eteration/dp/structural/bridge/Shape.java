@@ -8,5 +8,5 @@ public abstract class Shape {
 		this.color=c;
 	}
 	
-	abstract public void applyColor();
+	public abstract void applyColor();
 }
