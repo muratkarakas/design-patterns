@@ -12,6 +12,9 @@ public class CompressionContext {
   
   //use the strategy
   public void createArchive(List<File> files) {
+	  ///
+	  //
+	  ///
     strategy.compressFiles(files);
   }
 }
