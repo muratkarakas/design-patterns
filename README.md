@@ -1,4 +1,4 @@
-# Design Patters Java Examples
+# Design Patterns Java Examples
 
 * **Structural patterns** - Design Patterns that ease the design by identifying a simple way to realize relationships between entities.Structural design patterns are concerned with how classes and objects can be composed, to form larger structures. They simplify the structure by identifying the relationships. These patterns focus on, how the classes inherit from each other and how they are composed from other classes
 
